@@ -62,7 +62,7 @@ public class PracticeProblem {
 		java.util.Scanner s = new java.util.Scanner(System.in);
 		System.out.print("In: ");
 		boolean myboo = s.nextBoolean();
-		System.out.println(myboo + "is a boolean");
+		System.out.println(myboo + " is a boolean");
 		s.close();
 
 	}
